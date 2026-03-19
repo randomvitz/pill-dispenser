@@ -4,7 +4,7 @@ pill‑dispenser/
 │   └── wiring.md
 ├── src/                         # all application code
 │   ├── __init__.py
-│   ├── main.py                  # entry point, bootstraps services
+│   ├── main.py                  # entry point, esbootstraps servic
 │   ├── config.py                # loads/saves user settings & schedules
 │   ├── hardware/                # low‑level drivers
 │   │   ├── __init__.py
